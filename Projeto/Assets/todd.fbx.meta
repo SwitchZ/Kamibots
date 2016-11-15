@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 6279a6aec7be18e409214fa9b0ea8773
+timeCreated: 1465154154
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ankle.L
+    100002: Ankle.L.001
+    100004: Arm.L
+    100006: Arm.L.001
+    100008: Armature
+    100010: Body
+    100012: Bone.012
+    100014: Bone.012_end
+    100016: Bone.013
+    100018: Bone.013_end
+    100020: Camera
+    100022: Chest
+    100024: Foot.L
+    100026: Foot.L.001
+    100028: Foot.L.001_end
+    100030: Foot.L_end
+    100032: ForeArm.L
+    100034: ForeArm.L.001
+    100036: Hair
+    100038: Hand.L
+    100040: Hand.L.001
+    100042: Hand.L.001_end
+    100044: Hand.L_end
+    100046: Head
+    100048: Head_end
+    100050: Hips
+    100052: Lamp
+    100054: LowerLeg.L
+    100056: LowerLeg.L.001
+    100058: Neck
+    100060: Pants
+    100062: Shoulder.L
+    100064: Shoulder.L.001
+    100066: Spine
+    100068: Sun
+    100070: //RootNode
+    100072: UpperLeg.L
+    100074: UpperLeg.L.001
+    400000: Ankle.L
+    400002: Ankle.L.001
+    400004: Arm.L
+    400006: Arm.L.001
+    400008: Armature
+    400010: Body
+    400012: Bone.012
+    400014: Bone.012_end
+    400016: Bone.013
+    400018: Bone.013_end
+    400020: Camera
+    400022: Chest
+    400024: Foot.L
+    400026: Foot.L.001
+    400028: Foot.L.001_end
+    400030: Foot.L_end
+    400032: ForeArm.L
+    400034: ForeArm.L.001
+    400036: Hair
+    400038: Hand.L
+    400040: Hand.L.001
+    400042: Hand.L.001_end
+    400044: Hand.L_end
+    400046: Head
+    400048: Head_end
+    400050: Hips
+    400052: Lamp
+    400054: LowerLeg.L
+    400056: LowerLeg.L.001
+    400058: Neck
+    400060: Pants
+    400062: Shoulder.L
+    400064: Shoulder.L.001
+    400066: Spine
+    400068: Sun
+    400070: //RootNode
+    400072: UpperLeg.L
+    400074: UpperLeg.L.001
+    2300000: Body
+    2300002: Hair
+    2300004: Pants
+    2300006: //RootNode
+    3300000: Body
+    3300002: Hair
+    3300004: Pants
+    3300006: //RootNode
+    4300000: Hair
+    4300002: Pants
+    4300004: Body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

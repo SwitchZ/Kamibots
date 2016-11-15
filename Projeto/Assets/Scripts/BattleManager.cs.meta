@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6c5534d8f6878124b9a310f57fcec3cc
+timeCreated: 1458320415
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - TilePrefab: {instanceID: 0}
+  - UserPlayerPrefab: {instanceID: 0}
+  - AIPlayerPrefab: {instanceID: 0}
+  - Mountain: {instanceID: 0}
+  - transitionCanvas: {instanceID: 0}
+  - battleCanvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
