@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: b90fa8d8fa2e1fd4eb6cfa4a24906a4b
+timeCreated: 1460825060
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Base
+    100002: Coluna
+    100004: Coluna.001
+    100006: Coluna.002
+    100008: Coluna.003
+    100010: //RootNode
+    100012: Janela
+    100014: Janela.001
+    100016: Janela.002
+    100018: Janela.003
+    100020: Janela.004
+    100022: Janela.005
+    100024: Janela.006
+    100026: Janela.007
+    100028: Janela.008
+    100030: Janela.009
+    100032: Janela.010
+    100034: Janela.011
+    100036: Janela.012
+    100038: ParedesBaixo
+    100040: ParedesCIma
+    100042: Porta
+    100044: Teto
+    100046: Teto.001
+    400000: Base
+    400002: Coluna
+    400004: Coluna.001
+    400006: Coluna.002
+    400008: Coluna.003
+    400010: //RootNode
+    400012: Janela
+    400014: Janela.001
+    400016: Janela.002
+    400018: Janela.003
+    400020: Janela.004
+    400022: Janela.005
+    400024: Janela.006
+    400026: Janela.007
+    400028: Janela.008
+    400030: Janela.009
+    400032: Janela.010
+    400034: Janela.011
+    400036: Janela.012
+    400038: ParedesBaixo
+    400040: ParedesCIma
+    400042: Porta
+    400044: Teto
+    400046: Teto.001
+    2300000: Base
+    2300002: Coluna
+    2300004: Coluna.001
+    2300006: Coluna.002
+    2300008: Coluna.003
+    2300010: Janela
+    2300012: Janela.001
+    2300014: Janela.002
+    2300016: Janela.003
+    2300018: Janela.004
+    2300020: Janela.005
+    2300022: Janela.006
+    2300024: Janela.007
+    2300026: Janela.008
+    2300028: Janela.009
+    2300030: Janela.010
+    2300032: Janela.011
+    2300034: Janela.012
+    2300036: ParedesBaixo
+    2300038: ParedesCIma
+    2300040: Porta
+    2300042: Teto
+    2300044: Teto.001
+    3300000: Base
+    3300002: Coluna
+    3300004: Coluna.001
+    3300006: Coluna.002
+    3300008: Coluna.003
+    3300010: Janela
+    3300012: Janela.001
+    3300014: Janela.002
+    3300016: Janela.003
+    3300018: Janela.004
+    3300020: Janela.005
+    3300022: Janela.006
+    3300024: Janela.007
+    3300026: Janela.008
+    3300028: Janela.009
+    3300030: Janela.010
+    3300032: Janela.011
+    3300034: Janela.012
+    3300036: ParedesBaixo
+    3300038: ParedesCIma
+    3300040: Porta
+    3300042: Teto
+    3300044: Teto.001
+    4300000: Janela.006
+    4300002: Janela.005
+    4300004: Janela.007
+    4300006: Janela.004
+    4300008: Janela.003
+    4300010: Janela.002
+    4300012: Janela.001
+    4300014: Janela
+    4300016: Janela.012
+    4300018: Janela.011
+    4300020: Janela.010
+    4300022: Janela.009
+    4300024: Coluna
+    4300026: Coluna.003
+    4300028: Porta
+    4300030: Janela.008
+    4300032: Coluna.002
+    4300034: Coluna.001
+    4300036: Teto.001
+    4300038: Base
+    4300040: Teto
+    4300042: ParedesCIma
+    4300044: ParedesBaixo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
